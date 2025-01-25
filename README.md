@@ -1,2 +1,6 @@
 # First_repository-
-understanding the basics of github 
+Understanding the basics of github
+<br>
+hello world 
+<br>
+This is my first commit 
